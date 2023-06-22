@@ -112,7 +112,7 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     font-size: 40px;
-    line-height: 1.2em;
+    line-height: 1.5em;
 }
 
     @media only screen and (max-width : 570px) {
